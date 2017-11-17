@@ -1,4 +1,4 @@
-FROM jenkins-centos 
+FROM wiss013/jenkins 
 MAINTAINER BEN CHAABEN Wissem <benchaaben.wissem@gmail.com>
 
 # Change to root user
